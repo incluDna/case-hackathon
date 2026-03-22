@@ -1,5 +1,5 @@
 # Case Competitions
 
-| Year | Case | Topic | Rank |
-| ---- | ----- | ----- | ------ |
-| 2026 | ICC | InnovestX | Qualify round |
+| Year | Case | Rank |
+| ---- | --------- | ------ |
+| 2026 | ICC2026_InnovestX | Qualify round |
